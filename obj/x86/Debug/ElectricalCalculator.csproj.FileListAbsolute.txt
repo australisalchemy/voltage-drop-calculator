@@ -1,0 +1,9 @@
+H:\Files\Development\C#\Desktop Applications\ElectricalCalculator\bin\Debug\ElectricalCalculator.exe
+H:\Files\Development\C#\Desktop Applications\ElectricalCalculator\bin\Debug\ElectricalCalculator.pdb
+H:\Files\Development\C#\Desktop Applications\ElectricalCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Files\Development\C#\Desktop Applications\ElectricalCalculator\obj\x86\Debug\ElectricalCalculator.frmMain.resources
+H:\Files\Development\C#\Desktop Applications\ElectricalCalculator\obj\x86\Debug\ElectricalCalculator.Properties.Resources.resources
+H:\Files\Development\C#\Desktop Applications\ElectricalCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Files\Development\C#\Desktop Applications\ElectricalCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Files\Development\C#\Desktop Applications\ElectricalCalculator\obj\x86\Debug\ElectricalCalculator.exe
+H:\Files\Development\C#\Desktop Applications\ElectricalCalculator\obj\x86\Debug\ElectricalCalculator.pdb
